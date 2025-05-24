@@ -4,6 +4,11 @@
 
 A Django project template with Dockerized PostgreSQL and pgAdmin for database management.
 
+## 📋 Requisitos Previos
+- Docker y Docker Compose
+- Python 3.8+
+- Git
+
 ## 🛠️ Setup Instructions
 
 1. Clone Repository
